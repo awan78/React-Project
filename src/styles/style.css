@@ -1,0 +1,114 @@
+ul {
+  list-style-type: none;
+  padding-top: 20px;
+  padding-left:0px;
+  padding-right:0px;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  padding: 15px;
+  padding-right:22px;
+  background-color: #dddddd;
+  text-decoration-line: none;
+  color: #000000;
+}
+.leftnav {
+	padding-right:200px;
+	text-align:center;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.one {
+	height:8px;
+}
+.lefttoright {
+   padding-left: 40px;
+   margin-bottom: 11px;
+}
+.color {
+	color: #000000;
+}
+.vertical-menu {
+  width: 200px;
+  padding-left: 40px;
+  width: 357px;
+}
+.vertical-menu a {
+  color: black;
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+}
+.vertical-menu p {
+  color: #000000;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+.vertical-menu a:hover {
+  background-color: #ccc;
+  color:red;
+}
+.border {
+border-style:ridge ridge none ridge;
+}
+.opacity {
+	opacity: 0.5;
+}
+.extrapadding {
+	padding-top: 20px;
+}
+.sideborder {
+  border-style: none ridge none ridge;
+}
+.mainright {
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.items-main-div {
+  margin-left: 400px;
+  margin-top: -285px;
+} 
+.image-block {
+  margin-left:20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 250px;
+  height:330px;
+  padding:10px;
+  float:left;
+}
+.detailed-image-block {
+  margin-left: 417px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  width: 380px;
+  height: 460px;
+  padding: 10px;
+  float: left;
+}
+.discount {
+  text-decoration: line-through;
+}
+.detailed-card-block {
+  display:flex;
+}
+.detailed-card-text {
+  margin-top: -310px;
+  margin-left: 814px;
+  margin-right: 22px;
+}
+.margin-bottom {
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+.someclass {
+  color:black;
+}
+.someclass2 {
+  color:pink;
+}
