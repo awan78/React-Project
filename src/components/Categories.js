@@ -8,7 +8,7 @@ class Categories extends Component {
   constructor(props) {
     super(props)
   }
-  
+  fdfjkdjfl
   render() {
     let categoryarray = [];
     let itemsarray = [];
